@@ -1,0 +1,5 @@
+Minimum number of eigenvectors that explain at least 90% of the variance = 21
+k = 1 - Error Rate: 0.04377104377104377
+k = 3 - Error Rate: 0.037037037037037035
+k = 5 - Error Rate: 0.04713804713804714
+k = 7 - Error Rate: 0.05387205387205387
